@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RobustDemo</string>
+    <string name="change_text">change text</string>
+    <string name="hello_world">hello world</string>
+</resources>
